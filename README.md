@@ -9,7 +9,7 @@ Use this template to scaffold a new terraform module. Remember to change the fol
 
 --- 
 
-# terraform-module-template ![Latest Release](https://img.shields.io/github/manifest-json/v/DemisR/terraform-module-template)
+# terraform-module-template ![Latest Release](https://img.shields.io/github/v/tag/DemisR/terraform-module-template)
 
 ## Desription
 
